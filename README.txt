@@ -1,3 +1,4 @@
-ʹ�ò��裺
-1. ����Tx�Ĵ����Ȳ��ϵ��ԣ���ӦttyUSB0��������Rx�Ĵ��ں���ϵ��ԣ���ӦttyUSB1����
-2. ���ն�cd������Ŀ¼��ִ�С�sudo sh launch.sh�����
+使用步骤：
+1. 连接Tx的串口先插上电脑（对应ttyUSB0），连接Rx的串口后插上电脑（对应ttyUSB1）。
+2. 在终端cd进入主目录，新建Rxlog/和Txlog/两个文件夹。
+3. 执行“sudo sh launch.sh”命令。
